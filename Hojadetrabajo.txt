@@ -1,0 +1,55 @@
+Datos del estudiante 1:
+Nombre: Roberto
+Apellido: Garcia
+Edad: 20
+Cumpleaños: 3/5
+Tiene trabajo: No
+Número de carnet: 5090-23-1762
+Semestre: 3
+Carrera universitaria: Sistemas
+Horario de clases: Lunes, Miercoles y Viernes de 07:00 a 12:00, Martes y Jueves de 08:30 a 12:00
+
+Datos del estudiante 2:
+Nombre: James
+Apellido: Hank
+Edad: 21
+Cumpleaños: 8/10
+Tiene trabajo: Sí
+Número de carnet: 5090-23-6998
+Semestre: 2
+Carrera universitaria: Industrial
+Horario de clases: Lunes, Miercoles y Viernes de 07:00 a 12:00, Martes y Jueves de 07:00 a 10:00
+
+Datos del estudiante 3:
+Nombre: Angelyn
+Apellido: Zecena
+Edad: 20
+Cumpleaños: 1/4
+Tiene trabajo: No
+Número de carnet: 5090-23-2659
+Semestre: 3
+Carrera universitaria: Sistemas
+Horario de clases: Lunes, Miercoles y Viernes de 07:00 a 12:00, Martes y Jueves de 07:00 a 10:00
+
+Datos del estudiante 4:
+Nombre: Gian
+Apellido: Carlo
+Edad: 19
+Cumpleaños: 4/6
+Tiene trabajo: No
+Número de carnet: 5090-23-6595
+Semestre: 4
+Carrera universitaria: Civil
+Horario de clases: Lunes, Miercoles y Viernes de 07:00 a 12:00, Martes y Jueves de 07:00 a 10:00
+
+Datos del estudiante 5:
+Nombre: Melissa
+Apellido: Quan
+Edad: 20
+Cumpleaños: 6/1
+Tiene trabajo: Sí
+Número de carnet: 5090-23-3625
+Semestre: 3
+Carrera universitaria: Sistemas
+Horario de clases: Lunes, Miercoles y Viernes de 07:00 a 12:00, Martes y Jueves de 07:00 a 10:00
+
